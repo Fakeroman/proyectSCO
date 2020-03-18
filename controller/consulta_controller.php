@@ -1,0 +1,1 @@
+<!-- Mediador consulta -->
